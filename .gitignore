@@ -10,3 +10,11 @@ depict_prep/projects/jonatan/tmp-holst-hsl/data/nClust_meanExprLogN\.RDS\.gz
 depict_prep/projects/jonatan/tmp-holst-hsl/data/nClustSub_meanExprLogN\.log\.hsapiens_orthologs\.tab\.gz
 
 depict_prep/projects/jonatan/tmp-holst-hsl/data/nClustSub_meanExprLogN\.RDS\.gz
+
+data/gwas/carb_fgwasno_nan\.txt
+
+data/gwas/fat_fgwasno_nan\.txt
+
+data/gwas/multi_traitno_nan\.txt
+
+data/gwas/protein_fgwasno_nan\.txt
